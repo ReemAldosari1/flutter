@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15644987219",
+    "project_id": "tripit-94c67",
+    "storage_bucket": "tripit-94c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15644987219:android:6389dbfe92b4027b569ba6",
+        "android_client_info": {
+          "package_name": "io.flutter.examples.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15644987219-kafivp5ic4v811deo8olbjgvifk1o6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfUV8iHY4fHNer57w3_upaIdGof2ZiPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15644987219-kafivp5ic4v811deo8olbjgvifk1o6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
